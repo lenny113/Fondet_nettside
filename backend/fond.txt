@@ -1,9 +1,9 @@
 nordnet teknologi indeks nok IE00BNNLSM87
 
-Nordnet global indeks nok 
-nordnet Europa indeks nok
+Nordnet global indeks nok 0P0001K6NJ.IR
+nordnet Europa indeks nok 0P0001K6NF.IR
 
-nordnet emerging markets indeks
+nordnet emerging markets indeks 0P0001K6NB.IR
 
-kraft corporate bonds B
-DNB finans A
+kraft corporate bonds B 0P0001PLOM.IR
+DNB finans A 0P00000O67.IR
